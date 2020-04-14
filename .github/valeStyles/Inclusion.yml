@@ -1,11 +1,9 @@
-extends: existence
-message: Consider removing '%s'
+extends: substitution
+message: Use gender neutral language when possible. Consider using '%s' instead of '%s'
 link: ""
+level: error
 ignorecase: true
-level: warning
-tokens:
-  - simple
-  - just
-  - easily
-  - actually
-  - simply
+# swap maps tokens in form of bad: good
+swap:
+    he: they
+    she: they

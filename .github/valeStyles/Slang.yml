@@ -1,0 +1,12 @@
+extends: existence
+message: Consider removing '%s'
+link: ""
+ignorecase: true
+level: warning
+tokens: 
+  - beast
+  - under the hood
+
+# This is meant to capture common colloquialisms, humor, idioms, anthropromorphism, personification and metaphors. 
+# It will catch the whole phrase not just a single word.
+# As we encounter them, we can add them to tokens. 

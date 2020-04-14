@@ -1,0 +1,12 @@
+extends: conditional
+message: "'%s' Headings should be sequential"
+link: ""
+level: error
+ignorecase: true
+# Ensures that the existence of 'first' implies the existence of 'second'.
+first: '(##)(.*)' # Level 2 heading
+second: '(#+)(.*)' # Level 1 heading
+# ... with the exception of these:
+# exceptions:
+#   - ABC
+#   - ADD
