@@ -2,6 +2,7 @@ extends: conditional
 message: "'%s' Headings should be sequential"
 link: ""
 level: error
+scope: heading
 ignorecase: true
 # Ensures that the existence of 'first' implies the existence of 'second'.
 first: '(##)(.*)' # Level 2 heading

@@ -6,4 +6,4 @@ level: warning
 max: 40
 token: \b(\w+)\b
 
-# This catches an entire sentace and checks if its 40 character long.
+# This catches an entire sentence and checks if its 40 character long.

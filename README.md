@@ -18,7 +18,7 @@ https://errata-ai.gitbook.io/vale/
 ## To do
 
 - [ ] Add links to the rule it references in each yaml file. Left off since final location is not decided on.
-
+- [ ] Trying to figure out of I can check for sequential headings. I have not figured it out yet.[.github/valeStyles/SequentialHeadings.yml](.github/valeStyles/SequentialHeadings.yml)
 
 ## Styles I skipped
 The following is a list of guidelines I skipped because I couldn't figure out how to check for them
@@ -29,3 +29,4 @@ The following is a list of guidelines I skipped because I couldn't figure out ho
 ## Regex
 Need to build a regex expression to match on: http://buildregex.com/
 Need to test it out: https://regexr.com/
+
