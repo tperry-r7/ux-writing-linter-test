@@ -1,5 +1,5 @@
 extends: existence
-message: Consider removing '%s'
+message: Avoid directional instructions and any language that requires someone to see the layout or design of the page. Consider removing '%s'
 link: ""
 scope: sentence
 ignorecase: true

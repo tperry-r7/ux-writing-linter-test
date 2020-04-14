@@ -1,8 +1,8 @@
 extends: existence
-message: Consider removing '%s'
+message: Avoid language that isolate or excludes. Remove '%s'
 link: ""
 ignorecase: true
-level: warning
+level: error
 tokens: 
   - young
   - old

@@ -1,11 +1,11 @@
 extends: existence
 message: Consider removing '%s'
 link: ""
-nonword: true
 ignorecase: true
-scope: heading
 level: warning
 tokens: 
-  - '(?:ing)'
-
-
+    - can't
+    - don't
+    - bad
+    - won't
+    

@@ -19,12 +19,14 @@ https://errata-ai.gitbook.io/vale/
 
 - [ ] Add links to the rule it references in each yaml file. Left off since final location is not decided on.
 - [ ] Trying to figure out of I can check for sequential headings. I have not figured it out yet.[.github/valeStyles/SequentialHeadings.yml](.github/valeStyles/SequentialHeadings.yml)
+- [ ] Figure out checking for empty headings (.github/valeStyles/EmptyHeadings.yml)[.github/valeStyles/EmptyHeadings.yml] Current regex only checks for the heading, it doesn't check to see if its empty and it only checks the first line. 
+- [ ] Fill in positive and negative language. [.github/valeStyles/PostiveLanguage.yml](.github/valeStyles/PostiveLanguage.yml)
 
 ## Styles I skipped
 The following is a list of guidelines I skipped because I couldn't figure out how to check for them
 
 * Identity first language- I think I can check for this, but need a table of terms to look for. 
-* Need more slang. Only have a few, but its meant to capture all slang/ [.github/valeStyles/Slang.yml](s.github/valeStyles/Slang.yml)
+* Need more slang. Only have a few, but its meant to capture all slang/ [.github/valeStyles/Slang.yml](.github/valeStyles/Slang.yml)
 
 ## Regex
 Need to build a regex expression to match on: http://buildregex.com/

@@ -1,0 +1,11 @@
+extends: existence
+message: Consider removing empty headings '%s'
+link: ""
+nonword: true
+ignorecase: true
+scope: heading
+level: warning
+token: '^#+ *$'
+
+# (<=\s|^)###(.*?)$
+# ^#+ *$
