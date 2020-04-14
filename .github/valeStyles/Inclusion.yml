@@ -1,0 +1,11 @@
+extends: existence
+message: Consider removing '%s'
+link: ""
+ignorecase: true
+level: warning
+tokens:
+  - simple
+  - just
+  - easily
+  - actually
+  - simply
