@@ -1,0 +1,14 @@
+# Should this be a rule we check for or is it understood.
+extends: existence
+message: "Use first person (such as '%s') sparingly."
+link: ''
+ignorecase: true
+level: warning
+nonword: true
+tokens:
+  - (?:^|\s)I\s
+  - (?:^|\s)I,\s
+  - \bI'm\b
+  - \bme\b
+  - \bmy\b
+  - \bmine\b

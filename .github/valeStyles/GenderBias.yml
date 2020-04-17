@@ -1,6 +1,6 @@
 extends: substitution
-message: "Consider using '%s' instead of '%s'."
-link: ''
+message: "Avoid language that excludes or isolates. '%s' instead of '%s'."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.m3kg5n4i4eaq'
 ignorecase: true
 level: error
 swap:

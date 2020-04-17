@@ -1,5 +1,5 @@
 extends: existence
-message: Consider removing '%s'
+message: Try to write more concise sentances '%s'
 link: ""
 ignorecase: true
 level: warning

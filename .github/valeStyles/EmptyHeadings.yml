@@ -1,11 +1,12 @@
+# Work in progress
 extends: existence
 message: Consider removing empty headings '%s'
-link: ""
-nonword: true
+link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.wjv3wpz552k7"
 ignorecase: true
 scope: heading
 level: warning
 token: '^#+ *$'
 
+#'^#+ *$'
 # (<=\s|^)###(.*?)$
 # ^#+ *$
