@@ -1,0 +1,8 @@
+extends: existence
+message: External links should be on a new line. '%s'
+link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.m3kg5n4i4eaq"
+ignorecase: true
+nonword: true
+level: warning
+tokens: 
+    - '\s((http|ftp|https):\/\/)[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)'

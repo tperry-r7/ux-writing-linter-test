@@ -23,6 +23,9 @@ https://errata-ai.gitbook.io/vale/
 - [ ] Fill in positive and negative language. [.github/valeStyles/PostiveLanguage.yml](.github/valeStyles/PostiveLanguage.yml)
 - [ ] Empty headings are hard [.github/valeStyles/EmptyHeadings.yml](.github/valeStyles/EmptyHeadings.yml)
 - [ ] Can vale check for empty items? [.github/valeStyles/EmptyLinks.yml](.github/valeStyles/EmptyLinks.yml)
+- [ ] Can I check for a lead in sentance to lists? I think that might be a script and not vale
+
+
 
 ## Styles I skipped
 The following is a list of guidelines I skipped because I couldn't figure out how to check for them
@@ -32,5 +35,5 @@ The following is a list of guidelines I skipped because I couldn't figure out ho
 
 ## Regex
 Need to build a regex expression to match on: http://buildregex.com/
-Need to test it out: https://regexr.com/
+Need to test it out: https://regexr.com/, https://regex101.com/
 

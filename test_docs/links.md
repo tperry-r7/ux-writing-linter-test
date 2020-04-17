@@ -1,9 +1,6 @@
-[here](https://www.google.com)
-[click here](https://www.google.com)
-[here](https://somesite.com)
-[I'm an inline-style link](https://www.google.com)
-[click here](https://www.google.com)
-[sometext here]
-()[]
-(?:\[\]\(\))
-[]()
+Some text. Below is good.
+https://github.com
+https://www.google.com
+More Text
+
+New line. https://www.google.com. Look at you in the middle of a sentance. 
