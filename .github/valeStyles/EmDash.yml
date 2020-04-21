@@ -1,5 +1,5 @@
 extends: existence
-message: "Use an em dash when using charecters, not numbers"
+message: "Use an em dash when using characters, not numbers"
 link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.gvb3q55pnzcz'
 nonword: true
 level: warning
