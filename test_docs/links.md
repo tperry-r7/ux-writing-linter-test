@@ -1,6 +1,8 @@
-Some text. Below is good.
-https://github.com
-https://www.google.com
-More Text
 
-New line. https://www.google.com. Look at you in the middle of a sentance. 
+https://www.rapid7.com
+
+http://www.rapid7.com
+
+ftp://www.example.com/downloads/myfile.txt
+
+https://support.symantec.com/en_US/article.DOC8645.html

@@ -2,4 +2,5 @@ extends: existence
 message: List items should start with bold  Fix '%s'
 link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.lk2r9q6i64m8"
 scope: list
+level: suggestion
 match: $sentence

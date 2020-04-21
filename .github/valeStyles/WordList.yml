@@ -1,0 +1,105 @@
+extends: existence
+message: "Verify your use of '%s' with the word list."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.6itroue98z9w'
+level: suggestion
+ignorecase: true
+tokens:
+  - AM
+  - PM
+  - above
+  - access
+  - access key
+  - Accessory
+  - Activate
+  - Active
+  - current
+  - Add-in
+  - Add-on
+  - Address
+  - Afterwards
+  - against
+  - alert
+  - allow
+  - alpha
+  - and/or
+  - antivirus
+  - application
+  - arrow keys
+  - as
+  - as well as
+  - attribute
+  - auto-
+  - back end
+  - back up
+  - backup
+  - base line
+  - baseline
+  - baud
+  - backward
+  - since
+  - below
+  - beta
+  - bi-
+  - bitmap
+  - bits per second
+  - blank
+  - board
+  - bookmark
+  - boot
+  - bot
+  - browse
+  - find
+  - bug
+  - build
+  - built-in
+  - button
+  - cache
+  - disk cache
+  - can
+  - may
+  - canceled
+  - canceling
+  - card
+  - certificate
+  - chapter
+  - chart
+  - check
+  - check box
+  - checked command
+  - child folder
+  - choose
+  - clear
+  - click
+  - select
+  - client
+  - client side
+  - close
+  - co-
+  - terminal
+  - command
+  - command prompt
+  - Continuous
+  - Continual
+  - default
+  - double-click
+  - double-clicking
+  - etc.
+  - etc
+  - type
+  - mouse states
+  - per
+  - preset
+  - right-click
+  - right click
+  - left-click
+  - left click
+  - that
+  - which
+  - usage
+  - which
+  
+
+
+
+
+

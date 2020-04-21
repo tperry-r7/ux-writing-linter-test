@@ -1,0 +1,12 @@
+# In progress
+extends: existence
+message: "Use italics for citations."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.sidjeqbajarr'
+ignorecase: true
+level: warning
+nonword: true
+# raw:
+#     - (^\*)(\s*\b)([^\*]*)(\b\s*)(\*)
+# tokens:
+#     # - (^\*)(\s*\b)([^\*]*)(\b\s*)(\*)
+#     - '*'

@@ -11,19 +11,23 @@ https://errata-ai.gitbook.io/vale/
 
 ## Setup
 
-* Configuration file must be named `.vale.ini` or `_vale.ini` and needs to be at th*e top level directory. 
+* Configuration file must be named `.vale.ini` or `_vale.ini` and needs to be at the top level directory. 
 * Styles files are written in `yml` and located in `.github/valeStyles`.
 * `test_docs` - test all the rules configured.
 
 ## To do
 
-- [ ] Add links to the rule it references in each yaml file. Left off since final location is not decided on.
+- [ ] Change links to final style guide
 - [ ] Trying to figure out of I can check for sequential headings. I have not figured it out yet.[.github/valeStyles/SequentialHeadings.yml](.github/valeStyles/SequentialHeadings.yml)
 - [ ] Figure out checking for empty headings (.github/valeStyles/EmptyHeadings.yml)[.github/valeStyles/EmptyHeadings.yml] Current regex only checks for the heading, it doesn't check to see if its empty and it only checks the first line. 
 - [ ] Fill in positive and negative language. [.github/valeStyles/PostiveLanguage.yml](.github/valeStyles/PostiveLanguage.yml)
-- [ ] Empty headings are hard [.github/valeStyles/EmptyHeadings.yml](.github/valeStyles/EmptyHeadings.yml)
 - [ ] Can vale check for empty items? [.github/valeStyles/EmptyLinks.yml](.github/valeStyles/EmptyLinks.yml)
 - [ ] Can I check for a lead in sentance to lists? I think that might be a script and not vale
+- [ ] New Line Links [.github/valeStyles/NewLineLinks.yml](.github/valeStyles/NewLineLinks.yml)
+- [ ] Skip protocol if not http[.github/valeStyles/URLWebsitesLinks.yml](.github/valeStyles/URLWebsitesLinks.yml)
+- [ ] Underlined words and phrases can look like links, so don’t underline for emphasis.
+- [ ] Can't find italics (.github/valeStyles/Italics.yml)[.github/valeStyles/Italics.yml]
+
 
 
 

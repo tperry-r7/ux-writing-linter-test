@@ -1,0 +1,12 @@
+extends: existence
+message: Use numerals when writing about a specific number, regardless of how big it is or where it appears in the sentence. Spell-out numbers when they don’t represent specific facts. '%s'
+link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.5vq772puonar"
+level: warning
+ignorecase: true
+nonword: true
+raw:
+    - ((?:f(?:ive|our)|s(?:even|ix)|t(?:hree|wo)|(?:ni|o)ne|eight))|((?:(?:(?:s(?:even|ix)|f(?:our|if)|nine)te|e(?:ighte|lev))en|t(?:(?:hirte)?en|welve)))|(?:fifty|thirty|twenty|thousand|million)
+
+    
+# This only checks for numbers that are spelled out. 
+# Numbers that don't represent concrete facts can be kept. Review your writing and edit as needed.

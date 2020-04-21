@@ -1,0 +1,6 @@
+extends: existence
+message: "Avoid abbreviations of months unless necessary to save space ('%s')."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.85xmy2cmh0il'
+nonword: false
+tokens:
+  - (jan|feb|mar|apr|jul|aug|sept|oct|nov|dec)

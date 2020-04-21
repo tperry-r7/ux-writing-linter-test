@@ -1,0 +1,7 @@
+extends: existence
+message: "Don't use plurals in parentheses such as in '%s'."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.lvpq57p1ui9r'
+level: error
+nonword: true
+tokens:
+  - '\b\w+\(s\)'

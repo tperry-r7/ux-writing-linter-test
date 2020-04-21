@@ -1,10 +1,10 @@
 extends: existence
-message: Avoid using geruinds in title and headings. '%s'
+message: Avoid using geruinds in titles and headings. '%s'
 link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit# AND https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.wjv3wpz552k7"
 nonword: true
 ignorecase: true
 scope: heading
-level: warning
+level: error
 tokens: 
   - '(?:ing)'
 

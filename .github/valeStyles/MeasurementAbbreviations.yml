@@ -1,0 +1,31 @@
+extends: substitution
+message: Don't abbreviate units of measure except KB, GB and MB. Only abbreviate if you need to save space. Consider using '%s' instead of '%s'
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.etheni1pml87'
+ignorecase: true
+level: suggestion
+scope: sentence
+swap:
+  bps : bits per second
+  cm : centimeters
+  dp : dots per inch
+  ft : feet
+  Gbps : gigabits per second
+  GHz : gigahertz
+  Hz : Hertz
+  hr : hours
+  in. : inches
+  in : inches
+  Kbps : kilobits per second
+  kHz : kilohertz
+  li : lines
+  Mbps : megabits per second
+  MBps : megabits per second
+  MHz : megahertz
+  mm : millimeters
+  msec : milliseconds
+  ms : milliseconds
+  ppi : points per inch
+  sec : seconds
+  s : seconds
+
+

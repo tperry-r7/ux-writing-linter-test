@@ -1,11 +1,12 @@
 extends: existence
-message: Consider removing '%s'
-link: ""
+message: Avoid using negative language removing '%s'
+link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.o43jmuzbje2r"
 ignorecase: true
-level: warning
+level: suggestion
 tokens: 
     - can't
     - don't
     - bad
     - won't
+    - Abort
     

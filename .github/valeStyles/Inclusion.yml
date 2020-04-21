@@ -1,5 +1,5 @@
 extends: substitution
-message: Use gender neutral language when possible. Consider using '%s' instead of '%s'
+message: Use gender neutral language when possible. We use “they” to reference unknown third-persons. Consider using '%s' instead of '%s'
 link: "https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.9rxhxqv43asw"
 level: error
 ignorecase: true

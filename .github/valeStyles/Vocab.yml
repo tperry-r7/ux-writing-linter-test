@@ -1,0 +1,108 @@
+extends: substitution
+message: "Use '%s' instead of '%s'. These are commonly misspelled or missused words. "
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.6itroue98z9w'
+level: warning
+ignorecase: true
+swap:
+  abort: use end, exit or stop
+  access privileges : user rights
+  access rights: user rights
+  afterwards: afterward
+  anti-virus: antivirus
+  backwards: backward
+  bottom left: lower left
+  bottom right: lower right
+  Cascading menu: submenu
+  center around: center on
+  checkbox: check box
+  checkmark: check mark
+  click on: Click in the window 
+  click at: Click in the window
+  code snipped: code example | code sample
+  default: built-in
+  preset: built-in
+  doubleclick: double-click
+  doubleclicking: double-clicking
+  e.g: for example
+  eg: for example
+  etc.: Do not use. Just write out the list
+  etc: Do not use, just write out the list
+  type: enter
+  ig: in other words
+  i.g.: in other words
+  mice: mouse devices
+  right-click: secondary click
+  right click: secondary click
+  unix: Unix
+  useage: usage
+  via: through
+  web site: website
+  Website: website
+  since: because
+  blank: empty
+  above: previous | preceding | earlier
+  current: active | open
+  and/or: and | or
+  as well as: in addtion | and | such as
+  below: later | following
+  unmark: clear | deselect
+  child folder: subfolder
+  type: enter
+  per: for each
+  via: through
+  i.e.: such as | for example
+  user name: username
+  user-name: username
+  log in: login
+  log-in: login
+  log into: log in to
+  login to: log in to
+  log-in to: log in to
+  e-mail: email
+  e mail: email
+  back-up: backup
+  back up: backup
+  bullet list: bulleted list
+  Cancelled: Canceled
+  Cancelling: Canceling
+  Continual: Continuous
+  doubleclick: double-click
+  double click: double-click
+  web site: website
+  set up: setup (noun)
+  set-up: setup (noun) | set up (verb)
+  setup: set up (verb)
+  drop-down: dropdown
+  drop down: dropdown
+  plug-in: plugin
+  plug in: plugin
+  two factor: two-factor
+  chat-bot: chatbot
+  chat bot: chatbot
+  on-prem: on-premises
+  white list: whitelist
+  white-list: whitelist
+  R7: Rapid7
+  MS: Metasploit
+  InsightCloud: Insight Cloud
+  Insight VM: InsightVM
+  Insight IDR: InsightIDR
+  VM: InsightVM
+  IDR: InsightIDR
+  AppSec: InsightAppSec
+  App Sec: InsightAppSec
+  Insight App Sec: InsightAppSec
+  Insight Connect: InsightConnect
+  Ops: InsightOps
+  Insight Ops: InsightOps
+  tcell: tCell
+  App Spider: AppSpider
+  InsightAgent: Insight Agent
+
+
+
+
+
+
+
+

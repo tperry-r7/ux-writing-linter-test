@@ -1,0 +1,7 @@
+extends: existence
+message: "Use question marks and exclamation points sparingly '%s'."
+link: 'https://docs.google.com/document/d/1kT8423WTLIRHZC-5wQuu3_fuiNqqmDQ7zny7f4VqBPA/edit#heading=h.kns8yrgguiw'
+level: warning
+nonword: true
+tokens:
+  - (?:(\?+|\!+))
