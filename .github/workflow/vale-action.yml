@@ -1,0 +1,2 @@
+- name: Vale Linter
+  uses: errata-ai/vale-action@v1.0.4

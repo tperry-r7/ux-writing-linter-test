@@ -26,6 +26,6 @@ swap:
   ms : milliseconds
   ppi : points per inch
   sec : seconds
-  s : seconds
+  # s : seconds Keeps matching on any s. Will need to rethtink this token
 
 

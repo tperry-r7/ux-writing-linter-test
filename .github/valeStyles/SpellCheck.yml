@@ -1,6 +1,0 @@
-extends: spelling
-message: "Did you really mean '%s'?"
-level: error
-ignore: .github/Rapid7vocab.txt
-
-# This uses https://github.com/errata-ai/en_US-web for some spell checking.
