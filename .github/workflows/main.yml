@@ -8,7 +8,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v1
     - name: Vale
-      uses: ./ # Uses an action in the root directory
+      uses: errata-ai/vale-action@v1.0.4
       with:
         styles: |
           https://github.com/tperry-r7/ux-writing-linter/archive/v1.1.zip
