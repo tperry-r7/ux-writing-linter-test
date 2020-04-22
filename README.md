@@ -8,7 +8,6 @@ Contains the vale configuration files for R7 style guide linter.
 ## Vale documentation 
 https://errata-ai.gitbook.io/vale/
 
-
 ## Setup
 
 * Configuration file must be named `.vale.ini` or `_vale.ini` and needs to be at the top level directory. 
